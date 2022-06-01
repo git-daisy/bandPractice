@@ -1,0 +1,62 @@
+.img {
+  float: right;
+  border-radius: 50%;
+  border: 5px solid rgb(84, 128, 84);
+  
+}
+
+body {
+  background-color: rgb(252, 248, 240);
+}
+
+.mans {
+  color:rgba(160, 56, 160, 0.788)
+  
+}
+
+.something {
+  border: 10px solid rgb(84, 128, 84);
+  background-color: whitesmoke;
+  margin: auto;
+  padding: 10px;
+  padding-left: 5%;
+  font-weight: 900;
+
+}
+
+.introBox {
+  text-align: center;
+  align-items: auto;
+  font-family: sans-serif;
+  background-color: whitesmoke;
+  border: 10px solid rgb(84, 128, 84);
+  padding-bottom: 7%;
+  
+}
+
+.introText {
+  color: rgba(160, 56, 160, 0.788);
+}
+
+.column {
+  width: 300px;
+  float: left;
+}
+.bandLink { 
+  border: 10px solid rgb(84, 128, 84);
+  background-color: whitesmoke;
+  margin: auto;
+  padding: 10px;
+  padding-left: 5%;
+  padding-top: 5%;
+  font-weight: 900;
+}
+.tourDate {
+  border: 10px solid rgb(84, 128, 84);
+  background-color: whitesmoke;
+  margin: auto;
+  padding: 10px;
+  padding-left: 5%;
+  padding-top: 5%;
+  font-weight: 900;
+}
